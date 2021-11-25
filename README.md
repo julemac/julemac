@@ -5,6 +5,8 @@
   ✨I’m currently learning how to use python and how to make discord bots
  
   ✨I'm really focused on avoiding people
+  
+  ✨Look, it's my [GitHub Page](https://julemac.github.io/)
    
    
     📫 How to reach me? Please, just don't
