@@ -1,4 +1,4 @@
-# Hi, I’m @julemac
+# Hi, I’m @julemac -> Julia Maciaszek
  
   ✨I created this account in october 2021 for my classes
  
