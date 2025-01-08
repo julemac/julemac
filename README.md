@@ -2,13 +2,9 @@
  
   ✨I created this account in october 2021 for my classes
  
-  ✨I’m currently learning how to use python and how to make discord bots
+  ✨I’m currently learning Computer Science
  
   ✨I'm really focused on avoiding people
-  
-  ✨Look, it's my [GitHub Page](https://julemac.github.io/)
-  
-  ✨Here you can find a [repository](https://github.com/julemac/mental-health-datasets) concerning mental health
    
    
     📫 How to reach me? Please, just don't
