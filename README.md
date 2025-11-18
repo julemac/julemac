@@ -1,8 +1,8 @@
 # Hi, I’m @julemac -> Julia Maciaszek
  
-  ✨I created this account in october 2021 for my classes
+  ✨I created this account back in october 2021 for one of my classes
  
-  ✨I’m currently learning Computer Science
+  ✨I’m currently studying Game Design
  
   ✨I'm really focused on avoiding people
    
