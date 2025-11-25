@@ -1,6 +1,6 @@
 # Hi, I’m @julemac -> Julia Maciaszek
  
-  ✨I created this account back in october 2021 for one of my classes
+  ✨I created this account back in October 2021 for one of my classes
  
   ✨I’m currently studying Game Design
  
